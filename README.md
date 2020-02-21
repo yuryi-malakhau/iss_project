@@ -1,7 +1,7 @@
 # International Space Station command line tracker :rocket:
 
 Data modified: 02/02/2020  
-Date created: 01/02/2020  
+Date created: 02/02/2020  
 
 Authors: Yuryi Malakhau  
 
